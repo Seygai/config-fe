@@ -2,7 +2,7 @@
   "name": "@seygai/prettier-config",
   "version": "1.0.1",
   "description": "Configurations for prettier",
-  "homepage": "https://github.com/garfieldduck/config-fe#readme",
+  "homepage": "https://github.com/Seygai/config-fe#readme",
   "license": "MIT",
   "main": "lib/prettier-config.js",
   "publishConfig": {
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:garfieldduck/config-fe.git"
+    "url": "git@github.com:Seygai/config-fe.git"
   },
   "bugs": {
-    "url": "https://github.com/garfieldduck/config-fe/issues"
+    "url": "https://github.com/Seygai/config-fe/issues"
   }
 }
