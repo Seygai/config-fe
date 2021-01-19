@@ -1,6 +1,6 @@
 {
   "name": "@seygai/commitlint-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Configurations for commit-lint",
   "homepage": "https://github.com/Seygai/config-fe#readme",
   "license": "MIT",
