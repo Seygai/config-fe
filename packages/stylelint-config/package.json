@@ -1,5 +1,5 @@
 {
-  "name": "@garfieldduck/stylelint-config",
+  "name": "@seygai/stylelint-config",
   "version": "0.1.5",
   "description": "Configurations for stylelint",
   "homepage": "https://github.com/garfieldduck/config-fe#readme",

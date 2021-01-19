@@ -1,5 +1,5 @@
 {
-  "name": "@garfieldduck/eslint-config",
+  "name": "@seygai/eslint-config",
   "version": "0.0.7",
   "description": "Configurations for eslint",
   "homepage": "https://github.com/garfieldduck/config-fe#readme",

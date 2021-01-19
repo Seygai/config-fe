@@ -1,5 +1,5 @@
 {
-  "name": "@garfieldduck/commitlint-config",
+  "name": "@seygai/commitlint-config",
   "version": "0.0.5",
   "description": "Configurations for commit-lint",
   "homepage": "https://github.com/garfieldduck/config-fe#readme",

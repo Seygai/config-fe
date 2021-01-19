@@ -1,4 +1,3 @@
-# `@garfieldduck/eslint-config`
+# `@seygai/eslint-config`
 
 Sharable `eslint` config
-
