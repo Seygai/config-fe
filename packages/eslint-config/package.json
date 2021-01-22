@@ -1,6 +1,6 @@
 {
   "name": "@seygai/eslint-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Configurations for eslint",
   "homepage": "https://github.com/Seygai/config-fe#readme",
   "license": "MIT",
