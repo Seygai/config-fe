@@ -85,6 +85,10 @@ module.exports = {
     // ======================================================
     "@typescript-eslint/explicit-function-return-type": "off",
 
+    // turn of no-unused-vars and turn on @typescript-eslint/no-unused-vars
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": "error",
+
     // ======================================================
     // A11y rules
     // ======================================================
